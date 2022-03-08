@@ -1,0 +1,32 @@
+[
+  {
+    "barcode": 123321,
+    "title": "bread",
+    "price": 1.0,
+    "total": 10
+  },
+  {
+    "barcode": 123321,
+    "title": "milk",
+    "price": 1.0,
+    "total": 10
+  },
+  {
+    "barcode": 123321,
+    "title": "ace",
+    "price": 1.0,
+    "total": 10
+  },
+  {
+    "barcode": 123321,
+    "title": "cheese",
+    "price": 1.0,
+    "total": 10
+  },
+  {
+    "barcode": "12312",
+    "title": "ice",
+    "price": "0.4",
+    "total": "12"
+  }
+]
